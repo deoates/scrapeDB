@@ -1,0 +1,19 @@
+{
+  "name": "scrapedb",
+  "version": "0.0.0",
+  "description": "database for scraped reviews",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deoates/scrapeDB.git"
+  },
+  "author": "David Oates",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/deoates/scrapeDB/issues"
+  },
+  "homepage": "https://github.com/deoates/scrapeDB"
+}
